@@ -1,0 +1,35 @@
+{
+  "name": "@rotini/jest-preset",
+  "description": "rotini cli framework jest preset",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "rotini team",
+  "repository": "git@github.com:rotini-js/jest-preset.git",
+  "homepage": "https://github.com/rotini-js/jest-preset/blob/master/README.md",
+  "bugs": "https://github.com/rotini-js/jest-preset/issues",
+  "main": "jest.config.js",
+  "files": [
+    "jest.config.js",
+    "package.json",
+    "LICENSE",
+    "README.md"
+  ],
+  "engines": {
+    "npm": "use-yarn"
+  },
+  "keywords": [
+    "rotini",
+    "cli",
+    "framework",
+    "jest",
+    "preset",
+    "jest-preset"
+  ],
+  "peerDependencies": {
+    "jest": "^28.1.0",
+    "ts-jest": "^28.0.4"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
