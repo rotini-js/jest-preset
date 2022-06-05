@@ -1,15 +1,15 @@
 {
   "name": "@rotini/jest-preset",
   "description": "rotini cli framework jest preset",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "author": "rotini team",
   "repository": "git@github.com:rotini-js/jest-preset.git",
   "homepage": "https://github.com/rotini-js/jest-preset/blob/master/README.md",
   "bugs": "https://github.com/rotini-js/jest-preset/issues",
-  "main": "jest.config.js",
+  "main": "jest-preset.js",
   "files": [
-    "jest.config.js",
+    "jest-preset.js",
     "package.json",
     "LICENSE",
     "README.md"
